@@ -1,8 +1,7 @@
-# zuix-html-pwa
 
 A Progressive Web App template with a responsive layout and mobile app look & feel.
 
-This template is built with just HTML, JavaScript and CSS so that it can be eventually integrated with your favourite
+This template is built with just HTML, JavaScript and CSS so that it can be eventually integrated with your
 development environment and build tools.
 
 
@@ -123,7 +122,7 @@ As you can see in the `index.html` file those pages and layout bits are loaded u
 </div>
 ```
 
-For a deeper insight on using these special attributes for component-based developemnt with **zUIx.js** see related link
+For a deeper insight on using these special attributes for component-based development with **zUIx.js** see related link
 at the bottom of this page.
 
 ### The news list
